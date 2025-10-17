@@ -9,7 +9,7 @@
   },
   "private": true,
   "dependencies": {
-    "@testing21/app-a": "workspace:*",
+    "@testing21/app-a": "0.1.1-beta.20",
     "@angular/animations": "^18.2.0",
     "@angular/common": "^18.2.0",
     "@angular/compiler": "^18.2.0",
